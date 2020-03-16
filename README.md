@@ -43,7 +43,7 @@ private String HashFunctionThree(String input) {
 }
 ```
 
-You'll be writing three different classes, one for each hashing function. Call them `DashaMapOne, 
+You'll be writing three different classes, one for each hashing function. Call them `rocks.zipcode.DashaMapOne, 
 DashaMapTwo, & DashaMapThree`.
 
 Build a test harness that can read in the word list and insert each word into each of the 
